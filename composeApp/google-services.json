@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937457423993",
+    "project_id": "healthkey-3a437",
+    "storage_bucket": "healthkey-3a437.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937457423993:android:c05a191da0ee481c55a6a8",
+        "android_client_info": {
+          "package_name": "com.example.healthkey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FYusdOvQXuZ0gaGfNqOpzU1Y8IWqJdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
